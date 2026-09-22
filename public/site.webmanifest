@@ -1,0 +1,15 @@
+{
+  "name": "Jevussy — An Endless Piano by JEV",
+  "short_name": "Jevussy",
+  "description": "An endless piano, imagined by JEV.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#eee7d8",
+  "theme_color": "#6f302f",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

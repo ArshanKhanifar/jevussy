@@ -1,0 +1,10 @@
+.gcloudignore
+.git
+.gitignore
+.next
+.vinext
+.wrangler
+node_modules
+*.log
+*.tsbuildinfo
+.env*
